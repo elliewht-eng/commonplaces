@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
+repository_link,Repository Link,,true
 latitude,Latitude
 longitude,Longitude
 source,Source
